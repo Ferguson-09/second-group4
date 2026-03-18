@@ -47,7 +47,6 @@ header {
     margin: 0 10px;
 }
 
-
 .about {
     background: #f4f6f9;
     padding: 80px 20px;
@@ -132,3 +131,10 @@ button:hover {
     transform: translateY(-2px) 
 }
 
+.footer {
+    display: grid;
+    place-items: center;
+    justify-content: baseline;
+    font-size: 30px;
+    font-weight: bold;
+}
