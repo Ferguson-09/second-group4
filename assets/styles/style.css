@@ -68,5 +68,16 @@ form div {
 button {
     border: 1px solid;
     width: 80px;
+<<<<<<< HEAD
 }
 >>>>>>> fb3b3d8 (added more css to form)
+=======
+    background-color: rgb(145, 241, 243);
+}
+
+button:hover {
+    background-color: rgb(192, 140, 240);
+    color: rgb(95, 16, 95);
+    transform: translateY(-2px) 
+}
+>>>>>>> 06311b9 (added more css to form)
