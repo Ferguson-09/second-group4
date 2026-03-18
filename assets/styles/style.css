@@ -1,8 +1,5 @@
 @import "./reset.css";
-<<<<<<< HEAD
 
-=======
->>>>>>> 43e50c5 (resolved conflicts)
 
 header {
     background-color: purple;
@@ -50,7 +47,6 @@ header {
     margin: 0 10px;
 }
 
-<<<<<<< HEAD
 
 .about {
     background: #f4f6f9;
@@ -109,8 +105,6 @@ header {
     box-shadow: 0 8px 20px #00000026;
 }
 
-=======
->>>>>>> 43e50c5 (resolved conflicts)
 form {
     height: auto;
     width: 300px;
@@ -129,16 +123,6 @@ form div {
 button {
     border: 1px solid;
     width: 80px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-<<<<<<< HEAD
-
-=======
->>>>>>> fb3b3d8 (added more css to form)
-=======
-=======
->>>>>>> 43e50c5 (resolved conflicts)
     background-color: rgb(145, 241, 243);
 }
 
@@ -147,8 +131,4 @@ button:hover {
     color: rgb(95, 16, 95);
     transform: translateY(-2px) 
 }
-<<<<<<< HEAD
->>>>>>> 06311b9 (added more css to form)
->>>>>>> d066677 (added more css to form)
-=======
->>>>>>> 43e50c5 (resolved conflicts)
+
