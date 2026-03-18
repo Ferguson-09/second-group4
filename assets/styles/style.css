@@ -1,4 +1,5 @@
 @import "./reset.css";
+<<<<<<< HEAD
 
 header {
     background-color: purple;
@@ -45,3 +46,13 @@ header {
     gap: 20px;
     margin: 0 10px;
 }
+=======
+form {
+    height: 300px;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: rgb(243, 156, 251);
+}
+
+>>>>>>> 4da105f (added basic css to form)
