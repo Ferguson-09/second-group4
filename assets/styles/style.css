@@ -48,11 +48,25 @@ header {
 }
 =======
 form {
-    height: 300px;
+    height: auto;
     width: 300px;
     border: 2px solid;
     border-radius: 5px;
     background-color: rgb(243, 156, 251);
+    margin: 10px;
+    padding: 10px;
+    place-content: center;
 }
 
+<<<<<<< HEAD
 >>>>>>> 4da105f (added basic css to form)
+=======
+form div {
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid;
+    width: 80px;
+}
+>>>>>>> fb3b3d8 (added more css to form)
